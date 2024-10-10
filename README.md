@@ -1,29 +1,16 @@
-# FEBIN.R
+# Welcome to My GitHub Profile
 
-I'm a final year Computer Science and Engineering Undergrad, Student at College of Engineering Adoor(CEA).
-Building my version of the digital world one step at a time.
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="left">
-  <a href="https://github.com/febinreju?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/febinreju?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/febinreju?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/febinreju?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+👋 Hi, I'm **Febin Reju** – a Computer Science graduate with a passion for technology and problem-solving. I'm currently interning in **Python Data Science**, **Machine Learning**, and **AI**, along with **Power BI** (with additional expertise in **Tableau**) at Luminar Technolab.
 
-</p>
+I love building projects that leverage data and AI to solve real-world problems, and I'm always looking to learn new tools and technologies to expand my skill set. You can find some of my projects, including my latest **Python-based unit converter app**, here on my GitHub.
 
+## 💻 Skills:
+- **Languages Known:** Python, SQL, R, HTML
+- Data Science, AI & Machine Learning
+- Data Analysis
+- Power BI & Tableau (Data Visualization)
+- Automation
 
-### Languages and Tools:
+🌱 Currently, I'm focused on expanding my expertise in **AI** and **Data Analysis**, applying them to develop innovative applications that make a positive impact.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-
-<br />
-<br />
+Feel free to connect or explore my projects!
